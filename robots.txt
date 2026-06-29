@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://forecight.com/sitemap-index.xml
